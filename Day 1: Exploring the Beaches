@@ -1,1 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Day 1: Arrival in Rio</title>
+</head>
+<body>
+  <h1>Day 1: Arrival in Rio</h1>
+  <p>Today I arrived in Rio and explored Copacabana Beach...</p>
+  <img src="copacabana.jpg" alt="Copacabana Beach">
+  <p>It was an amazing start to my trip!</p>
 
+  <!-- Navigation Links -->
+  <p>
+    <a href="index.html">Home</a> |
+    <a href="day2.html">Next Day →</a>
+  </p>
+</body>
+</html>
